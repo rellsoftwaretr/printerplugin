@@ -1,1 +1,1 @@
-# printerplugin
+# Cordova Printer Plugin 
